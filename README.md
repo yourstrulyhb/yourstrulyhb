@@ -1,12 +1,16 @@
+<div align="center">
+  <p style="font-style: italic;">🌠 We're but a speck of dust in the galaxy but it's still worthwhile to live. 🌠</p>
+  <img src="kokomi_galaxy.gif" align="center" style="width: 100%" />
+  <p> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
+</div>
 
-<p style="text-align: center;">🌠 We're but a speck of dust in the galaxy but it's still worthwhile to live. 🌠</p> 
-
-## About HB 
-Hi there 👋! I'm HB 👩‍💻!
 <br>
-👉 A computer science graduate and an ✨**aspiring data engineer**✨ who loves working with **Python** and **SQL**. <br>
-👉 I currently love learning about 🛠 ETL or data pipelines, and exploring the opportunities in the field of data. <br>
-👉 Someday, I want to see myself working on a data project 👾 that creates insights about our world 🌏---the environment, the animals and plants, the interrelation of every thing---and maybe of the space beyond our skies 🔭. <br>
+
+Hi there 👋! I'm HB 👩‍💻!
+
+  👉 A computer science graduate and an ✨**aspiring data engineer**✨ who loves working with **Python** and **SQL**. <br>
+  👉 I currently love learning about 🛠 ETL or data pipelines, and exploring the opportunities in the field of data. <br>
+  👉 Someday, I want to see myself working on a data project 👾 that creates insights about our world 🌏---the environment, the animals and plants, the interrelation of every thing---and maybe of the space beyond our skies 🔭. <br>
 
 <br>
 
@@ -23,7 +27,7 @@ Hi there 👋! I'm HB 👩‍💻!
 
 <br>
 
-### Other Programming Languages
+### Other Programming Languages 
 
 ![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![java](https://img.shields.io/badge/java-4120A9?style=for-the-badge&logo=java&logoColor=FFFFFF)
