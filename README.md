@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-style: italic;">🌠 We're but a speck of dust in the galaxy but it's still worthwhile to live. 🌠</p>
+  <p style="font-style: italic;">🌠 ...we're but a speck of dust in the galaxy but it's still worthwhile to live. 🌠</p>
   <img src="kokomi_galaxy.gif" align="center" style="width: 100%" />
   <p> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
 </div>
