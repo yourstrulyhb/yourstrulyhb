@@ -6,7 +6,7 @@
 
 <br>
 
-**Hi there 👋! I'm HB 👩‍💻!**
+**Hi there 👋, I'm HB 🔮!**
 
   👉 A computer science graduate and an ✨**aspiring data engineer**✨ who loves working with **Python** and **SQL**. <br>
   👉 I currently love learning about 🛠 **ETL or data pipelines**, and exploring the opportunities in the field of data. <br>
@@ -50,8 +50,9 @@ Before I wanted a career in data, I once dreamed of becoming a web developer. My
 
 
 <!--
-**yourstrulyhb/yourstrulyhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Icons reference: https://simpleicons.org
+**yourstrulyhb/yourstrulyhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
