@@ -6,11 +6,11 @@
 
 <br>
 
-Hi there 👋! I'm HB 👩‍💻!
+**Hi there 👋! I'm HB 👩‍💻!**
 
   👉 A computer science graduate and an ✨**aspiring data engineer**✨ who loves working with **Python** and **SQL**. <br>
-  👉 I currently love learning about 🛠 ETL or data pipelines, and exploring the opportunities in the field of data. <br>
-  👉 Someday, I want to see myself working on a data project 👾 that creates insights about our world 🌏---the environment, the animals and plants, the interrelation of every thing---and maybe of the space beyond our skies 🔭. <br>
+  👉 I currently love learning about 🛠 **ETL or data pipelines**, and exploring the opportunities in the field of data. <br>
+  👉 Someday, I want to see myself working on a data project 👾 that creates insights about our world 🌏---the environment, the animals and plants, the **interrelation of every thing**---and maybe of the space beyond our skies 🔭. <br>
 
 <br>
 
